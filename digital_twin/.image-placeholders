@@ -1,0 +1,7 @@
+Image placeholders needed:
+
+1. digital_twin-1024x1536.webp - Large marketplace image (exactly 1024x1536)
+2. digital_twin-256x256.webp - Bot avatar (exactly 256x256)
+
+These should be created with proper branding showing a digital twin concept.
+For now, the bot will install without images (empty base64 strings in install file).
