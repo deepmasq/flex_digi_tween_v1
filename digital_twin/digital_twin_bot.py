@@ -24,7 +24,7 @@ from digital_twin import digital_twin_install
 logger = logging.getLogger("bot_digital_twin")
 
 BOT_NAME = "digital_twin"
-BOT_VERSION = "0.1.0"
+BOT_VERSION = "0.1.1"
 
 UPLOAD_DOCUMENT_TOOL = ckit_cloudtool.CloudTool(
     strict=True,
